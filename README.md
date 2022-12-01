@@ -6,7 +6,7 @@ Pour ce faire, nous allons associer des touches du clavier à des actions.
 
 ## Actions possibles
 
-- ![](assets/arrow_up.png | width=20) : permet de passer de l'élément courant à l'élément du dessus
+- <img src="assets/arrow_up.png" width="24" height="24"> : permet de passer de l'élément courant à l'élément du dessus
 - `DOWN` : permet de passer de l'élément courant à l'élément du dessous
 - `LEFT` : permet de passer de l'élément courant à l'élément de gauche
 - `RIGHT` : permet de passer de l'élément courant à l'élément de droite
