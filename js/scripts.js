@@ -13,8 +13,6 @@ $("#boutonCommencer").click(function(){
     window.addEventListener("click", e => e.preventDefault(), { passive:false })
 // add css property to html
     $("html").css("cursor", "none");
-    document.getElementById("openMainSite").removeAttribute("hidden");
-    document.getElementById("amazon").className = "selectable";
     // css when over html tag
     $("*").hover(function(){
         $(this).css("cursor", "none");
